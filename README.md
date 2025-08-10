@@ -1,5 +1,14 @@
 # Quantum-Algorithm-as-a-PDE-Solver-for-Computational-Fluid-Dynamics-CFD-
 
+## Team Name: 
+Team Emerge
+
+## Team Member:
+- Name: Jessica Omuna Anabor
+- WISER & Womanium Enrollment ID: gst-ejQus9gT4ZpMBRP
+
+## Summary:
+
 The project presents a hybrid quantum-classical algorithm designed to solve the one dimensional viscous Burgers’ equation, a nonlinear partial differential equation fundamental to modeling shockwaves and fluid dynamics phenomena. This project addresses the growing need for scalable and efficient computational fluid dynamics (CFD) solvers by exploring how near-term quantum computing can contribute to this challenge.
 
 At the core of the approach is the use of amplitude encoding, which efficiently maps classical velocity field data into quantum states with only logarithmic qubit overhead. This encoding allows simulation of spatially discretized fields on quantum hardware with limited qubit resources, a crucial step given current hardware constraints.
@@ -24,7 +33,7 @@ Looking forward, the project opens avenues for, hopefully, advancing quantum noi
 - `pandas`
 - `matplotlib`
 
-## Presentation Slides
+## Project Presentation Slides
 
 https://www.canva.com/design/DAGvtWWjZPU/ZP5dOUdidetFrkEljCVduQ/view?utm_content=DAGvtWWjZPU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5af59f534d
 
