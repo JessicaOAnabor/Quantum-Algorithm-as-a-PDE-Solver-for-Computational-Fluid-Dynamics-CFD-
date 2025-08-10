@@ -21,7 +21,7 @@ Results indicate that under ideal noiseless simulation, the quantum algorithm ac
 
 Despite these limitations, the project successfully establishes a reproducible and extensible framework by leveraging deterministic seeding, comprehensive logging, and multiplatform support (including Qiskit Aer and AWS Braket). 
 
-The impact of this projecr is multifold. It validates the feasibility of using hybrid quantum algorithms for nonlinear PDEs central to fluid dynamics, bridging classical numerical methods with emerging quantum techniques. The project also highlights the critical role of noise mitigation and provides valuable insights into the limitations of current NISQ era quantum devices for scientific computing.
+The impact of this project is multifold. It validates the feasibility of using hybrid quantum algorithms for nonlinear PDEs central to fluid dynamics, bridging classical numerical methods with emerging quantum techniques. The project also highlights the critical role of noise mitigation and provides valuable insights into the limitations of current NISQ era quantum devices for scientific computing.
 
 Looking forward, the project opens avenues for, hopefully, advancing quantum noise correction methods, optimizing quantum circuit architectures, and scaling to more complex, higher dimensional PDEs such as the Navier-Stokes equations. Additionally, deploying these algorithms on diverse quantum hardware and integrating adaptive hybrid strategies can further unlock the potential of quantum enhanced CFD solvers.
 
