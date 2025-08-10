@@ -31,7 +31,6 @@ CSV file storing all simulation and ZNE results, including:
 - Error bars and confidence intervals
 - Divergence metrics
 
----
 
 ## Dependencies
 
