@@ -28,4 +28,8 @@ Looking forward, the project opens avenues for, hopefully, advancing quantum noi
 
 https://www.canva.com/design/DAGvtWWjZPU/ZP5dOUdidetFrkEljCVduQ/view?utm_content=DAGvtWWjZPU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5af59f534d
 
+## PDF Report
+
+https://docs.google.com/document/d/1D1Y3_F7kwM2Y-mtLs8jxeS9gAwD7cmF_eUL20r1iAu8/edit?usp=sharing
+
 
